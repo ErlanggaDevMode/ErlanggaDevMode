@@ -126,12 +126,12 @@ A web-based endless runner prototype built with Three.js, exploring 3D rendering
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GANTI_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=22D3EE&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GANTI_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=22D3EE&currStreakLabel=6366F1" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ErlanggaDevMode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=22D3EE&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ErlanggaDevMode&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=22D3EE&currStreakLabel=6366F1" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANTI_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErlanggaDevMode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GANTI_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=6366F1&point=ffffff" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ErlanggaDevMode&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=6366F1&point=ffffff" width="90%"/>
 
 </div>
 
@@ -144,7 +144,7 @@ A web-based endless runner prototype built with Three.js, exploring 3D rendering
 <div align="center">
 
 <!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/GANTI_USERNAME/GANTI_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ErlanggaDevMode/ErlanggaDevMode/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 <!--END_SECTION:snake-->
 
 </div>
