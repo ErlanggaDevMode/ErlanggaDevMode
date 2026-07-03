@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Hey,%20I'm%20Erlangga%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Informatics%20Student%20%7C%20Co-Founder%20@%20Nayaka%20Code&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Building+tech+for+Indonesian+communities;Full-Stack+%7C+Android+%7C+Game+Dev;Co-Founder+of+Nayaka+Code;Currently+building+Nova+%E2%80%94+a+Personal+AI+Assistant" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Building+tech+for+Indonesian+communities;Full-Stack+%7C+Android+%7C+Game+Dev;Co-Founder+of+Nayaka+Code;Currently+build+Nova+AI;IOT Enthusiast" alt="Typing SVG" />
 
 </div>
 
