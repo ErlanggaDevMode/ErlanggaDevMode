@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Hey,%20I'm%20Erlangga%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Informatics%20Student%20%7C%20Co-Founder%20@%20Nayaka%20Code&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Hey,%20I'm%20Erlangga%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlign=center" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Building+tech+for+Indonesian+communities;Full-Stack+%7C+Android+%7C+Game+Dev;Co-Founder+of+Nayaka+Code;Currently+build+Nova+AI;IOT Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Building+tech+for+Indonesian+communities;Full-Stack+Developer;AI+Enthusiast;Game+Dev+Creator" alt="typing" />
 
 </div>
 
@@ -126,13 +126,13 @@ A web-based endless runner prototype built with Three.js, exploring 3D rendering
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ErlanggaDevMode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=22D3EE&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ErlanggaDevMode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=22D3EE&text_color=c9d1d9" alt="GitHub Stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ErlanggaDevMode&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=22D3EE&currStreakLabel=6366F1" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ErlanggaDevMode&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=22D3EE&currStreakLabel=6366F1" alt="Streak Stats" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErlanggaDevMode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErlanggaDevMode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" alt="Top Languages" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ErlanggaDevMode&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=6366F1&point=ffffff" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ErlanggaDevMode&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=6366F1&point=ffffff" alt="Contribution Graph" width="90%"/>
 
 </div>
 
@@ -158,10 +158,10 @@ A web-based endless runner prototype built with Three.js, exploring 3D rendering
 
 <div align="center">
 
-<a href="https://instagram.com/erlangga_loh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/erlangga-dimas-suryadi-34222a344"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto: erlanggadimassuryadi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/ErlanggaDevMode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://instagram.com/erlangga_loh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://linkedin.com/in/erlangga-dimas-suryadi-34222a344"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:erlanggadimassuryadi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/ErlanggaDevMode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
@@ -171,7 +171,7 @@ A web-based endless runner prototype built with Three.js, exploring 3D rendering
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ErlanggaDevMode&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=120&section=footer" alt="footer" />
 
 *"Building technology that's actually needed — not just built."*
 
