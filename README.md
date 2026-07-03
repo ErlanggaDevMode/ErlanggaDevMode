@@ -13,7 +13,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Erlangga
+Name: Erlangga Dimas Suryadi 
 role: Informatics Student @ Universitas Islam Majapahit (UNIM), Mojokerto
 studio: Co-Founder @ Nayaka Code — a web & systems development studio
 focus: Building tech that genuinely helps Indonesian communities, especially young people
@@ -148,51 +148,6 @@ A web-based endless runner prototype built with Three.js, exploring 3D rendering
 <!--END_SECTION:snake-->
 
 </div>
-
-> ⚙️ **How to enable this snake animation** (a one-time setup on your GitHub profile repo):
-> 1. Create a new repo with a name that **exactly matches** your GitHub username (this becomes your special profile repo).
-> 2. Save this file as `README.md` in that repo.
-> 3. Create a file at `.github/workflows/snake.yml` with the content below, then commit and push.
-> 4. Replace every `GANTI_USERNAME` above with your actual GitHub username.
-> 5. The animation will regenerate automatically every day via GitHub Actions.
-
-<details>
-<summary>📄 Click to view the contents of <code>.github/workflows/snake.yml</code></summary>
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 <br/>
 
