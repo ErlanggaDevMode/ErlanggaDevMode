@@ -132,7 +132,7 @@ A web-based endless runner prototype built with Three.js, exploring 3D rendering
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErlanggaDevMode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" height="165"/>
 
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ErlanggaDevMode&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=6366F1&point=ffffff" width="90%"/>
 
 </div>
 
